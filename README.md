@@ -1,6 +1,6 @@
 # Berke Kurt
 
-Hello there 👋 I am Berke Kurt, an Artificial Intelligence and Data Engineering undergraduate at Istanbul Technical University. I'm passionate about exploring the transformative potential of deep learning.
+👋 Hello there! I am Berke Kurt, an Artificial Intelligence and Data Engineering undergraduate at Istanbul Technical University. I'm passionate about exploring the transformative potential of deep learning.
 
 
 
