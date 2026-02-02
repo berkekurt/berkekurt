@@ -12,6 +12,8 @@ I'm passionate about exploring and developing expertise in the following fields.
 - **🗣️ Natural Language Processing**  
 - **🎵 Speech and Audio Processing**  
 - **📊 Data Mining**  
+- **🧱 Big Data**
+- **🚀 MLOps**
 - **🧠 Cognitive Neuroscience**  
 - **🎮 Game Theory**  
 - **⚙️ Algorithms**  
